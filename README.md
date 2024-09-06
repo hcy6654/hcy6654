@@ -48,3 +48,5 @@ Jiwoong's의 Github에 방문해주셔서 감사합니다!
       src="https://img.shields.io/badge/hcy6654@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcy6654&show_icons=true&theme=radical)
